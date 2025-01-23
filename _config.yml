@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guim Aguadé"
+title                    : "Guim Aguadé-Gorgorió"
 title_separator          : "-"
-name                     : &name "Guim Aguadé"
-description              : &description "Guim Aguadé"
+name                     : &name "Guim Aguadé-Gorgorió"
+description              : &description "Guim Aguadé-Gorgorió"
 url                      : https://abonmassip.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/academicpages" # the subpath of your site, e.g. "/blog"
 repository               : "abonmassip/academicpages.github.io"
@@ -22,10 +22,10 @@ repository               : "abonmassip/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Guim Aguadé"
+  name             : "Guim Aguadé-Gorgorió"
   pronouns         : # example: "she/her"  
-  bio              : " "
-  location         : "Institut des Sciences de l’Évolution de Montpellier"
+  bio              : "Marie Curie fellow"
+  location         : "ISEM Montpellier"
   employer         : # employer
   uri              : # URL
   email            : "guimaguade@gmail.com" 
