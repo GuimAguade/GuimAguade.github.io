@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Guim Aguadé"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # bio
   location         : "Institut des Sciences de l’Évolution de Montpellier"
   employer         : # employer
   uri              : # URL
