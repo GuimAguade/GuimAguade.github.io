@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Selected Publications
+Selected Publications:
 
 - [**Emergent coexistence and the limits of reductionism in ecological communities**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014116)<br>
   **G Aguadé-Gorgorió**, S Kéfi<br>
