@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a physicist with a PhD in biomedicine. I study complex biological systems, where many interacting components —from cells to species— can lead to emergent system properties.
+I am a physicist with a PhD in biomedicine. I study complex ecological systems, where many interacting components, from cells to species, give rise to emergent system-level properties.
 
-During my PhD in Barcelona (Spain), I developed mathematical models of cancer ecology and evolution, focusing on the interplay between cancer and the immune system to predict the success or failure of immunotherapy. As a Marie Skłodowska-Curie postdoctoral fellow in Montpellier (France), my research examines species-rich ecological and microbial communities, exploring how biodiversity influences ecosystem resilience and vulnerability to perturbations.
+I use statistical physics and empirical microbial data to study how community-level simplicity and predictability can arise from the complexity of hundreds of interacting species, and how these tools may help us better understand the microbiome–immune–cancer ecosystem. I have previously worked on modeling cancer ecology and evolution (PhD, UPF Barcelona) and on understanding multistability and emergent properties in species-rich ecological communities (Ramón Areces and MSCA fellow, ISEM Montpellier).
